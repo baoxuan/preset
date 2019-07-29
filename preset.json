@@ -1,0 +1,11 @@
+{
+  "presets": {
+    "foo": {
+      "plugins": {
+        "@vue/cli-plugin-foo": {
+          "option": "bar"
+        }
+      }
+    }
+  }
+}

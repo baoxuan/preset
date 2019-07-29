@@ -1,1 +1,1 @@
-preset
+vue cli preset
